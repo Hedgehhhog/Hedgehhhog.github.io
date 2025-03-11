@@ -25,3 +25,7 @@ Scientific research
 3.Xie,J.,Liu,C.,Ding,Z.(2024).Construction of Early Warning System for the Risk of Inheriting “Non-Heritage” Handicrafts: Centering on the Historical Examination of Bamboo Weaving Skills in Guozhai Village of Fuzhou.Culture Jounarl,(12), 14-17.
 
 4.Chen, Z.,  Lin, Y., Xie, J.,ea al.(2023).Research on the lmpact of Landscape Quality of Traditional Village TourismDestinations on Spatial Vitality: An Empirical Study of Beigang Village inPingtan County Based on Multi source Data and Machine Learning.Industrial Construction,1-11.
+
+Contact details
+======
+emails：1221797001@fafu.edu.cn/18965016677@163.com
