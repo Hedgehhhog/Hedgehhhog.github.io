@@ -11,7 +11,7 @@ I am Jiahui Xie, a Master of Design student at the School of Landscape Architect
 
 Scientific research
 ======
-1.XIE Jiahui,CHEN Zengyan,et al.(2024).Research on the perceptual evaluation of urban roaming path centered on the popularity of Generation Z: A case study of Fuzhou City.Resources Development & Market, 40(12).
+1.Xie, J.,Chen, Z.,et al.(2024).Research on the perceptual evaluation of urban roaming path centered on the popularity of Generation Z: A case study of Fuzhou City.Resources Development & Market, 40(12).
 
 2.Chen, Z., Yang, H., Lin, Y., Xie, J., Xie, Y., & Ding, Z. (2024). Exploring the association between the built environment and positive sentiments of tourists in traditional villages in Fuzhou, China. Ecological Informatics, 80, 102465.
 
