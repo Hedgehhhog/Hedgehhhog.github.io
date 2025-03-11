@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Jiahui Xie
 Master of Design Student, School of Landscape Architecture and Fine Arts, Fujian Agriculture and Forestry University
 Specializing in Environmental Art and Theory | Research Focus: Urban Public Space Analysis and Evaluation
 
