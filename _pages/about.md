@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Jiahui Xie, a Master of Design student at the School of Landscape Architecture and Fine Arts, Fujian Agriculture and Forestry University, majoring in Environmental Art and Theory, with a research interest in the analysis and evaluation of urban public space. During my undergraduate studies at Jimei University, I participated in a number of practical projects that combined cultural heritage preservation and modern spatial design, which stimulated my interest in the integration of urban heritage and modern design.
+In my graduate studies, I continued to study urban heritage and spatial analysis, combining field research and quantitative analysis to construct a scientific spatial perception assessment system, and I have published a number of academic papers in core journals on the inheritance of intangible arts and crafts and the design of urban roaming paths. In addition, I have actively participated in a number of public space renovation projects and accumulated rich practical experience.
+
 
 A data-driven personal website
 ======
